@@ -13,7 +13,7 @@ const Hero = () => {
                 className='w-28 object-contain'
             />
 
-            <Link href="/">
+            <Link href="https://github.com/CodewithMK180105/AI-Article-Summarizer" target="_blank">
                 <button className='black_btn'>
                     GitHub
                 </button>
